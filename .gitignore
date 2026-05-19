@@ -1,0 +1,57 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+artifacts/
+[Dd]ebug/
+[Rr]elease/
+
+# Test and coverage output
+[Tt]est[Rr]esult*/
+coverage/
+*.coverage
+*.coveragexml
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.DotSettings.user
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+.run/
+*.sln.iml
+
+# Visual Studio Code local settings
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+*~
+*.swp
+
+# Local environment and machine-specific settings
+.env
+.env.*
+!.env.example
+*.local.json

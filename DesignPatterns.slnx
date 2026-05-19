@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Creational/">
+    <Project Path="Singlton/Singlton.csproj" />
+  </Folder>
+</Solution>
