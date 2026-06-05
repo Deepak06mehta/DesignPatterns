@@ -55,3 +55,4 @@ Desktop.ini
 .env.*
 !.env.example
 *.local.json
+.aider*
