@@ -1,5 +1,7 @@
 <Solution>
   <Folder Name="/Creational/">
+    <Project Path="AbstractFactory/AbstractFactory.csproj" />
+    <Project Path="FactoryPattern/FactoryPattern.csproj" />
     <Project Path="Singlton/Singlton.csproj" />
   </Folder>
 </Solution>
